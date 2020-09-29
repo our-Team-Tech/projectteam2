@@ -1,0 +1,16 @@
+body
+{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1
+{font-family: 'Indie Flower', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    
+}
+.contain {
+    padding: 10px;
+    background-color: #3498db;
+    margin-bottom: 50px;
+}
